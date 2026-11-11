@@ -3,7 +3,7 @@
 - **Mã đề:** 07
 - **Họ tên:** Ngô Gia Hưng
 - **Lớp:** CNTT3
-- **Link repository:**
+- **Link repository:** https://github.com/ngogiahung123/HN-KS26-CNTT3_Nh-p-M-n-C-ng-Ngh-Th-ng-Tin_Hackathon02
 - **Hệ điều hành (Windows/macOS):** Windows
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
